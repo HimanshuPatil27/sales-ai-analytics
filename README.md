@@ -1,5 +1,4 @@
 # Sales Analytics Platform
-
 An end-to-end AI-powered Sales Analytics platform for e-commerce businesses.
 
 ## Project Structure
